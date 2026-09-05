@@ -1,0 +1,2 @@
+# kshfgj
+gitignore tells git 
